@@ -1,4 +1,7 @@
-### 纯PHP实现的终端聊天室
+## 纯PHP实现的终端聊天室
+
+#### 截图
+![截图](https://github.com/LibiChai/php-term-chat/blob/master/demo.png)
 
 #### 说明
 
